@@ -1,0 +1,6 @@
+timestamp,city,temperature,weather,humidity,wind_speed
+2025-04-26 01:49:22,Ankara,6.97,Clear sky,97,1.03
+2025-04-26T01:57:30.580838,Ankara,6.97,clear sky,97,1.03
+2025-04-26 01:57:30,Ankara,6.97,Clear sky,97,1.03
+2025-04-26T02:02:36.952547,Paris,11.2,overcast clouds,86,3.6
+2025-04-26T02:04:08.528568,Istanbul,10.68,mist,87,1.03

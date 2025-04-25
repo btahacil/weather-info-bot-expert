@@ -1,0 +1,12 @@
+2025-04-24 00:06:51 INFO:Fetched weather for Ankara: overcast clouds, 14.56°C
+2025-04-25 18:35:52 ERROR: Failed to fetch weather for city: Ankara
+2025-04-25 18:36:16 ERROR: Failed to fetch weather for city: Ankara
+2025-04-25 19:12:08 ERROR: Failed to fetch weather for city: Ankara
+2025-04-25 21:11:32 INFO: Fetched weather for Istanbul: clear sky, 11.68°C
+2025-04-26 01:31:00 ERROR: Failed to fetch weather for city: >> Ankara
+2025-04-26 01:35:04 INFO: Fetched weather for Ankara: Clear sky, 6.97°C
+2025-04-26 01:39:21     INFO: Fetched weather for Ankara: Clear sky, 6.97°C
+2025-04-26 01:49:22 INFO: Fetched weather for Ankara: Clear sky, 6.97°C
+2025-04-26 01:57:30 INFO: Fetched weather for Ankara: Clear sky, 6.97°C
+2025-04-26 02:02:36 INFO: Fetched weather for Paris: Overcast clouds, 11.2°F
+2025-04-26 02:04:08 INFO: Fetched weather for Istanbul: Mist, 10.68°C
