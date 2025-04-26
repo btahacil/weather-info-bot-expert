@@ -1,6 +1,7 @@
 # 🌤️ Weather Bot
 
-A simple, command-line **Python** tool to fetch real-time weather data from [OpenWeatherMap](https://openweathermap.org/) and log it for later analysis — perfect for scripts, cron jobs, or demonstrative Upwork portfolios! 🚀
+A simple, command-line **Python** tool to fetch real-time weather data from [OpenWeatherMap](https://openweathermap.org/) and log it for later analysis — developed as part of my professional portfolio to demonstrate API integration, automation, and data logging skills. 🚀
+
 
 ---
 
